@@ -1,0 +1,1 @@
+# LangChain-Powered-Text-Embedding-Storage-in-Vector-Databases
